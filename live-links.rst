@@ -1,6 +1,9 @@
 Chrome App Dev - https://developer.chrome.com/apps/app_codelab_import_todomvc
 
 CPP Dev - http://www.learncpp.com/cpp-tutorial/14-a-first-look-at-functions/ 
+
 Rofi dmenu alt - https://davedavenport.github.io/rofi/
+
 Using Emacs - http://bling.github.io/blog/2013/10/27/emacs-as-my-leader-vim-survival-guide/
+
 Openbox theme - http://www.reddit.com/r/unixporn/comments/36crd0/openbox/
