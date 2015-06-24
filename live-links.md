@@ -1,6 +1,6 @@
 :maple_leaf: Chrome App Dev - https://developer.chrome.com/apps/app_codelab_import_todomvc
 
-:black_small_square: CPP Dev - http://www.learncpp.com/cpp-tutorial/14-a-first-look-at-functions/ 
+:maple_leaf: CPP Dev - http://www.learncpp.com/cpp-tutorial/14-a-first-look-at-functions/ 
 
 :maple_leaf: Rofi dmenu alt - https://davedavenport.github.io/rofi/
 
