@@ -1,4 +1,4 @@
-: :maple_leaf: Chrome App Dev - https://developer.chrome.com/apps/app_codelab_import_todomvc
+:Chrome App Dev - https://developer.chrome.com/apps/app_codelab_import_todomvc
 
 :maple_leaf: CPP Dev - http://www.learncpp.com/cpp-tutorial/14-a-first-look-at-functions/ 
 
