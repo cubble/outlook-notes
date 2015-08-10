@@ -12,8 +12,8 @@
 
 :maple_leaf: Node.js - 
 
-Art of node - https://github.com/maxogden/art-of-node
+   Art of node - https://github.com/maxogden/art-of-node
     
-Why use node.js - http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
+   Why use node.js - http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
 
 :maple_leaf: Javascript tut - http://eloquentjavascript.net/00_intro.html
