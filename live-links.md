@@ -9,3 +9,7 @@
 :maple_leaf: Openbox theme - http://www.reddit.com/r/unixporn/comments/36crd0/openbox/
 
 :maple_leaf: Vim Guide - https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide
+
+:maple_leaf: Node.js - 
+    Art of node - https://github.com/maxogden/art-of-node
+    Why use node.js - http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
